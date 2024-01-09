@@ -1,3 +1,4 @@
+```
 #+OPTIONS: toc:nil title:nil
 #+SETUPFILE: /run/media/rob/RobLinux/My_Documents/emacs/org/setupfiles/org_article_file.org
 #+LATEX_HEADER:\usepackage{fancyheadings}
@@ -24,7 +25,7 @@
 
 #+END_EXPORT
 
-```
+
 @@latex:\clearpage@@
 #+BEGIN_EXPORT latex
 \clearpage \tableofcontents \setcounter{tocdepth}{5} \clearpage
