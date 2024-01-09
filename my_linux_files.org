@@ -1,4 +1,3 @@
-```
 #+OPTIONS: toc:nil title:nil
 #+SETUPFILE: /run/media/rob/RobLinux/My_Documents/emacs/org/setupfiles/org_article_file.org
 #+LATEX_HEADER:\usepackage{fancyheadings}
@@ -30,7 +29,7 @@
 #+BEGIN_EXPORT latex
 \clearpage \tableofcontents \setcounter{tocdepth}{5} \clearpage
 #+END_EXPORT
-```
+
 
 * Doom Emacs
 After hearing about ~Emacs~ for some time, I began using it last year. Initially, I hesitated due to its steep learning curve and the time investment it required. However, the challenge has been quite rewarding. ~Emacs~ has revolutionized my daily computer interactions. Although I used to rely heavily on the mouse, ~Emacs~ has shifted my workflow to be more keyboard-centric, enhancing my overall experience.
@@ -75,7 +74,7 @@ In this blog post, I aim to discuss exporting to PDF with Org-mode. After extens
 \clearpage \tableofcontents \setcounter{tocdepth}{5} \clearpage
 #+END_EXPORT
 #+END_SRC
-\pagebreak
+
 The ~SETUPFILE~ configuration i'm using is from ~Jake B~ [[https://www.youtube.com/@JakeBox0][YouTube channel]]. I am actively learning from this configuration and making the necessary adjustments to tailor it to my
 preferences.
 
