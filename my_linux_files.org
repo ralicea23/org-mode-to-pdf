@@ -26,7 +26,7 @@
 #+END_EXPORT
 
 
-(@@latex:\clearpage@@)
+# this make toc in a different page (@@latex:\clearpage@@)
 #+BEGIN_EXPORT latex
 \clearpage \tableofcontents \setcounter{tocdepth}{5} \clearpage
 #+END_EXPORT
