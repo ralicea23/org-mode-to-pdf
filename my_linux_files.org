@@ -24,10 +24,12 @@
 
 #+END_EXPORT
 
+#+BEGIN_EXAMPLE
 @@latex:\clearpage@@
 #+BEGIN_EXPORT latex
 \clearpage \tableofcontents \setcounter{tocdepth}{5} \clearpage
 #+END_EXPORT
+#+END_EXAMPLE
 
 * Doom Emacs
 After hearing about ~Emacs~ for some time, I began using it last year. Initially, I hesitated due to its steep learning curve and the time investment it required. However, the challenge has been quite rewarding. ~Emacs~ has revolutionized my daily computer interactions. Although I used to rely heavily on the mouse, ~Emacs~ has shifted my workflow to be more keyboard-centric, enhancing my overall experience.
