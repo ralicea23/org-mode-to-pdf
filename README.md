@@ -46,7 +46,6 @@ In this blog post, I aim to discuss exporting to PDF with Org-mode. After extens
     \clearpage \tableofcontents \setcounter{tocdepth}{5} \clearpage
     #+END_EXPORT
 
-\pagebreak
 The `SETUPFILE` configuration i&rsquo;m using is from `Jake B` [YouTube channel](https://www.youtube.com/@JakeBox0). I am actively learning from this configuration and making the necessary adjustments to tailor it to my
 preferences.
 
